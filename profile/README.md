@@ -10,6 +10,7 @@ At Avesbox, our mission is to empower developers by expanding the capabilities o
 
 ## Projects
 
-| Name | Version |
-| ------------ | ----------------- |
-| [Frontier](https://github.com/avesbox/frontier) | ![Pub Version](https://img.shields.io/pub/v/frontier) |
+| Name | Description | Version |
+| ------------ | ------------------------------------------------ | ----------------- |
+| [Frontier](https://github.com/avesbox/frontier) | Frontier is a simple, flexible and unobtrusive authentication library for Dart. | ![Pub Version](https://img.shields.io/pub/v/frontier) |
+| [Secure Session](https://github.com/avesbox/secure_session) | Secure stateless cookie session  | ![Pub Version](https://img.shields.io/pub/v/secure_session) |
