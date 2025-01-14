@@ -1,4 +1,4 @@
-<p align="center"><img src="AvesBox-02.png" width="200" height="200"></p>
+<p align="center"><img src="github-header.png"></p>
 
 # Welcome to Avesbox
 
