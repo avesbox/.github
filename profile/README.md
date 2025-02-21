@@ -12,7 +12,8 @@ At Avesbox, our mission is to empower developers by expanding the capabilities o
 
 | Name | Description | Version |
 | ------------ | ------------------------------------------------ | ----------------- |
-| [Frontier](https://github.com/avesbox/frontier) | Frontier is a simple, flexible and unobtrusive authentication library for Dart. | ![Pub Version](https://img.shields.io/pub/v/frontier) |
-| [Frontier Strategy](https://github.com/avesbox/frontier) | Frontier is a simple, flexible and unobtrusive authentication library for Dart. | ![Pub Version](https://img.shields.io/pub/v/frontier_strategy) |
+| [Acanthis](https://github.com/avesbox/acanthis) | Simple and easy-to-use validation library for Flutter and Dart inspired by Zod | ![Pub Version](https://img.shields.io/pub/v/acanthis) |
+| [Frontier](https://github.com/avesbox/frontier) | Frontier is a simple, flexible, and unobtrusive authentication library for Dart. | ![Pub Version](https://img.shields.io/pub/v/frontier) |
+| [Frontier Strategy](https://github.com/avesbox/frontier) | Frontier is a simple, flexible, and unobtrusive authentication library for Dart. | ![Pub Version](https://img.shields.io/pub/v/frontier_strategy) |
 | [Secure Session](https://github.com/avesbox/secure_session) | Secure stateless cookie session  | ![Pub Version](https://img.shields.io/pub/v/secure_session) |
-| [Microdiff](https://github.com/avesbox/microdiff) | Microdiff is fast, zery dependency object and array comparison library | ![Pub Version](https://img.shields.io/pub/v/microdiff) |
+| [Microdiff](https://github.com/avesbox/microdiff) | Microdiff is a fast, zery dependency object and array comparison library | ![Pub Version](https://img.shields.io/pub/v/microdiff) |
