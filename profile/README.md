@@ -15,4 +15,4 @@ At Avesbox, our mission is to empower developers by expanding the capabilities o
 | [Acanthis](https://github.com/avesbox/acanthis) | Simple and easy-to-use validation library for Flutter and Dart inspired by Zod | ![Pub Version](https://img.shields.io/pub/v/acanthis) |
 | [Frontier](https://github.com/avesbox/frontier) | Frontier is a simple, flexible, and unobtrusive authentication library for Dart. | ![Pub Version](https://img.shields.io/pub/v/frontier) |
 | [Secure Session](https://github.com/avesbox/secure_session) | Secure stateless cookie session  | ![Pub Version](https://img.shields.io/pub/v/secure_session) |
-| [Microdiff](https://github.com/avesbox/microdiff) | Microdiff is a fast, zery dependency object and array comparison library | ![Pub Version](https://img.shields.io/pub/v/microdiff) |
+| [Dart IP Query](https://github.com/avesbox/dart_ipquery) | A Dart library to query IP addresses using the https://ipquery.io API. | ![Pub Version](https://img.shields.io/pub/v/dart_ipquery) |
